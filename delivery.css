@@ -1,0 +1,215 @@
+body {
+    margin: 0px;
+}
+.img {
+    width: 145px;
+    height: 98px;
+    padding-left: 81px;
+}
+.txtdiv {
+    margin-top: -54px;
+    margin-left: 238px;
+    text-decoration: none;
+}
+
+.txtdiv1 {
+    text-decoration: none;
+    padding-left: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.txtdiv2 {
+    text-decoration: none;
+    padding-left: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.txtdivimg {
+    width: 60px;
+    height: 60px;
+    margin-left: 912px;
+    margin-top: -35px;
+}
+.orderimg img{
+    width: 20%;
+    height: 20%;
+   margin-left: 525px;
+   margin-top: -20px;
+   
+}
+.formdiv{
+   background-color:#413d3d;
+   width: 850px;
+   height: 900px;
+   margin-left: 200px;
+   border-radius: 16px;
+   margin-top: -3px;
+   margin-bottom: -837px;
+}
+.form1{
+    margin-left: 300px;
+}
+.name{
+    height: 28px;
+    width: 250px;
+    border: none;
+    border-radius: 4px;
+}
+.form2{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.name1{
+    height: 28px;
+    width: 250px;
+    border: none;
+    margin-left: 100px;
+    border-radius: 4px;
+}
+.form3{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.name2{
+    border: none;
+    height: 40px;
+    width:604px ; 
+    border-radius: 4px;
+}
+.form4{
+    margin-left: 300px;
+    color: white;
+}
+.form5{
+    margin-left: 300px;
+    font-size: 18px;
+    color: white;
+}
+.form6{
+    margin-left: 150px;
+    font-size: 18px;
+    color: white;
+}
+.form7{
+    margin-left: 300px;
+    margin-top: 30px;
+    height: 30px;
+    width: 90px;
+    background-color: green;
+    border: none;
+    color: white;
+}
+.formimg img{
+    width: 250px;
+    height: 250px;
+    margin-left: 300px;
+    margin-top:90px;
+}
+.formimg1 img{
+    width: 250px;
+    height: 250px;
+    margin-left: 662px;
+    margin-top: -236px;
+}
+.footr {
+    background-color: #202124;
+    width: 100%;
+    height: 300px;
+    margin-top: 120px;
+}
+
+.footr img {
+    width: 85px;
+    height: 80px;
+    margin-top: 100px;
+    margin-left: 95px;
+}
+
+.playicon img {
+    width: 115px;
+    height: 35px;
+}
+
+.playicon {
+    margin-top: -169px;
+    margin-left: 912px;
+}
+
+.appstoreicon img {
+    width: 115px;
+    height: 35px;
+}
+
+.appstoreicon {
+    margin-left: 1060px;
+    margin-top: -39px;
+}
+
+.copy {
+    color: #dbdbdb;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 95px;
+}
+
+.icons {
+    margin-left: 1050px;
+    margin-top: -20px;
+}
+
+.icons a {
+    text-decoration: none;
+    color: #dbdbdb;
+    padding-left: 8px; 
+}
+
+.icons a:hover {
+    color: aqua;
+}
+
+ .linkhead66 {
+    color: #dbdbdb;
+    margin-left: 355px;
+    margin-top: -177px;
+    font-weight: bold;
+
+}  
+
+  .linknone {
+    color: #dbdbdb;
+    text-decoration: none; 
+} 
+
+.subhead77 {
+    margin-left: 355px;
+    margin-top: 10px;
+} 
+
+.linkhead1 {
+    color: #dbdbdb;
+    margin-left: 500px;
+    margin-top: -73px;
+    font-weight: bold;
+}
+
+.subhead2 {
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.subhead3 {
+    margin-left: 670px;
+    margin-top: -100px;
+}
+
+.subhead4 {
+    margin-left: 670px;
+    margin-top: 10px;
+}
+
+.subhead23 {
+    margin-left: 500px;
+    margin-top: 10px;
+}
